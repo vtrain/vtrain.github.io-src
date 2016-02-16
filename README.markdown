@@ -1,7 +1,3 @@
-## Octopress 3.0
-
-Note: Octopress 3.0 is in development at https://github.com/octopress/octopress
-
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
